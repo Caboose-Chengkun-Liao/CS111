@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\james\Desktop\Discrete\Homework\HW2\RSA\RSA\Source.cpp(107,6): warning C4101: 'now': unreferenced local variable
+C:\Users\james\Desktop\Discrete\Homework\HW2\RSA\RSA\Source.cpp(110,6): warning C4101: 'origin_encri': unreferenced local variable
+C:\Users\james\Desktop\Discrete\Homework\HW2\RSA\RSA\Source.cpp(106,6): warning C4101: 'remain': unreferenced local variable
+C:\Users\james\Desktop\Discrete\Homework\HW2\RSA\RSA\Source.cpp(105,6): warning C4101: 'pow1': unreferenced local variable
+  RSA.vcxproj -> C:\Users\james\Desktop\Discrete\Homework\HW2\RSA\x64\Debug\RSA.exe
